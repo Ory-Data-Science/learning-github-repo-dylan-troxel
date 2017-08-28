@@ -5,3 +5,7 @@ Insurance
 Medical Data
 Patient Data
 Published Pharmaceutical/Drug Studies
+Billing Rejections
+Contraindications/DUR Rejections
+Prior Authorizations
+Prescriptions!
