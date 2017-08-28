@@ -1,3 +1,7 @@
 Gotta list all the different kinds of data I will run into as a pharacst.  Save and upload as I go.  After that, create a pull request on someone else's repository.
 
 Data we may encounter includes, but is not limited to:
+Insurance
+Medical Data
+Patient Data
+Published Pharmaceutical/Drug Studies
